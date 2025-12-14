@@ -2712,7 +2712,7 @@ transform: translateY(0);
   padding: 15px;
   transform: translateX(-100%);
   transition: 0.35s ease;
-  z-index: 999;
+  z-index: 980;
   margin-top: 0;  
 }
 
